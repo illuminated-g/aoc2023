@@ -15,6 +15,8 @@
 		<Item Name="Day 1-2.vi" Type="VI" URL="../Day 1-2.vi"/>
 		<Item Name="Day 2-1.vi" Type="VI" URL="../Day 2-1.vi"/>
 		<Item Name="Day 3-1.vi" Type="VI" URL="../Day 3-1.vi"/>
+		<Item Name="Day 4-1.vi" Type="VI" URL="../Day 4-1.vi"/>
+		<Item Name="Day 4-2.vi" Type="VI" URL="../Day 4-2.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="1D String Array to Delimited String.vi" Type="VI" URL="/&lt;vilib&gt;/AdvancedString/1D String Array to Delimited String.vi"/>
